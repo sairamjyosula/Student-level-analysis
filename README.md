@@ -1,4 +1,4 @@
-# tutor_student_analysis
+# Student level analysis
 An online tuition provider for classes 6-10 has recently conducted an examination for its students, and the subsequent sheets contain the results for each subject.
 Each student of a class has been assigned a unique roll number.
 There is no restriction on how many subjects each student can enroll in, he/she can take only 1, or take all 5.
